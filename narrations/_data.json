@@ -1,5 +1,17 @@
 {
 	"kindness" : {
 		"title" : "Kindness"
+	},
+	"reading" : {
+		"title" : "Reading"
+	},
+	"columbus-day" : {
+		"title" : "Columbus Day"
+	},
+	"snow-daydream" : {
+		"title" : "Snow Daydream"
+	},
+	"the-run" : {
+		"title" : "The Run"
 	}
 }
