@@ -1,0 +1,10 @@
+<section id="poetry-list">
+	<fieldset>
+		<legend>Poetry</legend>
+		<% for(var slug in public.poetry._data){ %>
+			<div class="poetry-blocks">
+		  		<h3><a href="/poetry/<%= slug %>"><%= public.poetry._data[slug].title %></a></h3>
+		  	</div>
+		<% }; %>
+	</fieldset>
+<section>
