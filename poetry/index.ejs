@@ -1,0 +1,12 @@
+<p>
+	English is a messed up language, but it is one that's fun to fool around with.
+	I like to play games with words, and sometimes a random phrase will inspire a
+	few more sentences and I call it poetry.
+</p>
+<% for(var slug in public.poetry._data){ %>
+	<div class="outside-block">
+		<div class="blocks">
+  			<h3><a href="<%= slug %>"><%= public.poetry._data[slug].title %></a></h3>
+  		</div>
+  	</div>
+<% }; %>

@@ -1,6 +1,6 @@
 <section id="poetry-list">
 	<fieldset>
-		<legend>Poetry</legend>
+		<legend>Latest Poetry</legend>
 		<% for(var slug in public.poetry._data){ %>
 			<div class="blocks">
 		  		<h3><a href="/poetry/<%= slug %>"><%= public.poetry._data[slug].title %></a></h3>
@@ -10,7 +10,7 @@
 </section>
 <section id="smut-list">
 	<fieldset>
-		<legend>Smut</legend>
+		<legend>Latest Smut</legend>
 		<% for(var slug in public.smut._data){ %>
 			<div class="blocks">
 		  		<h3><a href="/smut/<%= slug %>"><%= public.smut._data[slug].title %></a></h3>
@@ -20,7 +20,7 @@
 </section>
 <section id="narrations-list">
 	<fieldset>
-		<legend>Narrations</legend>
+		<legend>Latest Narrations</legend>
 		<% for(var slug in public.narrations._data){ %>
 			<div class="blocks">
 		  		<h3><a href="/narrations/<%= slug %>"><%= public.narrations._data[slug].title %></a></h3>

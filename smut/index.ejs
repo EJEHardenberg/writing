@@ -1,0 +1,10 @@
+<p>
+	Smut happens.
+</p>
+<% for(var slug in public.smut._data){ %>
+	<div class="outside-block">
+		<div class="blocks">
+  			<h3><a href="<%= slug %>"><%= public.smut._data[slug].title %></a></h3>
+  		</div>
+  	</div>
+<% }; %>
