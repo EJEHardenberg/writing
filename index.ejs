@@ -2,9 +2,29 @@
 	<fieldset>
 		<legend>Poetry</legend>
 		<% for(var slug in public.poetry._data){ %>
-			<div class="poetry-blocks">
+			<div class="blocks">
 		  		<h3><a href="/poetry/<%= slug %>"><%= public.poetry._data[slug].title %></a></h3>
 		  	</div>
 		<% }; %>
 	</fieldset>
-<section>
+</section>
+<section id="smut-list">
+	<fieldset>
+		<legend>Smut</legend>
+		<% for(var slug in public.smut._data){ %>
+			<div class="blocks">
+		  		<h3><a href="/smut/<%= slug %>"><%= public.smut._data[slug].title %></a></h3>
+		  	</div>
+		<% }; %>
+	</fieldset>
+</section>
+<section id="narrations-list">
+	<fieldset>
+		<legend>Narrations</legend>
+		<% for(var slug in public.narrations._data){ %>
+			<div class="blocks">
+		  		<h3><a href="/narrations/<%= slug %>"><%= public.narrations._data[slug].title %></a></h3>
+		  	</div>
+		<% }; %>
+	</fieldset>
+</section>
