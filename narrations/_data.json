@@ -1,4 +1,13 @@
-{
+{	
+	"morning-bus" : {
+		"title" : "Morning Bus"
+	},
+	"trees" : {
+		"title" : "Trees"
+	},
+	"donut" : {
+		"title" : "Donut"
+	},
 	"kindness" : {
 		"title" : "Kindness"
 	},
