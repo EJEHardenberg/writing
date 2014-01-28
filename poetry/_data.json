@@ -1,4 +1,22 @@
 {
+	"converse" : {
+		"title" : "Converse"
+	},
+	"hedgehog" :{
+		"title" : "HedgeHog"
+	},
+	"txt-msg":{
+		"title" : "Txt Msg"
+	},
+	"you-are":{
+		"title" : "You are"
+	},
+	"young" : {
+		"title" : "Youth"
+	},
+	"cotton" : {
+		"title" : "Cotton Candy"
+	},
 	"vanity" :{
 		"title" : "Vanity"
 	},
