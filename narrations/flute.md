@@ -28,7 +28,7 @@ began to take place around him. However, the brows were furrowed. The stance rig
 and the music was not having the relaxing effect it should have. A few more measures
 and the air wouldn't come to play the notes anymore. 
 
-Tears reappeared and shined the eyes into beautiful sadness. The streaks of tears
+Tears reappeared and shined the eyes into sorrow. The streaks of tears
 making small rivers down the cheeks dribbled down the chin and when the boy paused
 to wipe them away, the flute came down, the shoulders slumped and the hand never 
 made it to the chin. Tightly clenched, the child's hands flipped through the sheet
