@@ -1,4 +1,7 @@
 {
+	"bug"     :{
+		"title" : "Bug"
+	},
 	"success" :{
 		"title" : "Success"
 	},
