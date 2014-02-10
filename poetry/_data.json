@@ -1,4 +1,10 @@
 {
+	"phone" : {
+		"title" : "Smile"
+	},
+	"deliberate" : {
+		"title" : "Deliberate"
+	},
 	"bug"     :{
 		"title" : "Bug"
 	},
