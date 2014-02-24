@@ -38,7 +38,8 @@ and issues over the years, he couldn't afford a second car. The grey
 haired woman agreed that it was rude of them, but that it was a great
 thing that people _care_ enough to yell about a carbon footprint. Soon
 enough, recent politics of the President and how he was going to try to
-make a more rigorous specification for engine cleanliness by 2016. 
+make a more rigorous specification for engine cleanliness by 2016 squirmed
+into their talk. 
 
 The conversation ranged, the man's Texan accent bringing up travel and
 the reasons why he was in the North-East. The miraculous story of how a
@@ -48,7 +49,7 @@ enabled him to get the job he had now. Small miracles, leading to big
 results. 
 
 Turning again, their discussion moved to volunteer work, the grey haired
-woman, Lauren, now bringing up a center where she volunteered, inviting
+woman, Lauren, now bringing up a center where she volunteered, invited
 the man to come. Agreeing, he began talking about ADHD and the effect it
 had on children and how he really would love to tell his story to them.
 Issues ranging from drugs, alcohol, atheletics, breaking his back and
@@ -57,7 +58,7 @@ of lessons, and those lessons could do some good for people if shared.
 The ability to focus had opened his life back up to him. Enabling him to
 slam dunk his work ethic like he had dunked basket balls in college. The
 first man listened, inspiration building as he heard the story of these
-lifeeducated people. No books could teach the simple lesson that the
+life-educated people. No books could teach the simple lesson that the
 dry-walling painter said next:
 
 "I need a cause in my life" 
@@ -71,7 +72,7 @@ mind helping him by carrying the set of wooden poles onto the bus.
 
 Readily agreeing, the two men filed onto the bus, placing the heavy
 equipment into the open space near the handicapped seating. Genuine
-thanks were given, and the first masn took his place on the bus,
+thanks were given, and the first man took his place on the bus,
 reclining back and absorbing all that he had just heard. The strain of
 the man's accented voice reached the first as he engaged a girl, a
 student, in conversation. Telling his story, getting his practice for
