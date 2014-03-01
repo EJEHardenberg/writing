@@ -1,4 +1,7 @@
 {	
+	"close" : {
+		"title" : "Close"
+	},
 	"hot-chocolate" : {
 		"title" : "Hot Chocolate"
 	},
