@@ -1,4 +1,7 @@
 {
+	"writer" : {
+		"title" : "Writer"
+	},
 	"thief" : {
 		"title" : "Thief"
 	},
